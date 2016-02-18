@@ -1,6 +1,7 @@
 {\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf210
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;\f1\froman\fcharset0 Times-Roman;}
-{\colortbl;\red255\green255\blue255;\red234\green234\blue234;}
+{\colortbl;\red255\green255\blue255;\red234\green234\blue234;\red80\green101\blue157;\red255\green255\blue255;
+\red45\green68\blue134;\red16\green19\blue26;}
 \paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
 \pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural
 
@@ -9,5 +10,13 @@
 \pard\pardeftab720
 
 \f1\fs20 \cf0 \cb2 #EXTINF:0,Sky Sports 1 \
-http://80.243.189.26:8081/sportshd/sky1/index.m3u8 \
+http://80.243.189.26:8081\
+\
+\pard\pardeftab720\sl380
+{\field{\*\fldinst{HYPERLINK "https://www.facebook.com/hashtag/extinf?source=feed_text&story_id=557621504394706"}}{\fldrslt 
+\f0\fs28 \cf3 \cb4 \uc0\u8234 #\u8206 \cf5 EXTINF\uc0\u8236 }}
+\f0\fs28 \cf6 \cb4 :-1, FOX SPORTS 1 AU HD\
+\pard\pardeftab720\sl380
+{\field{\*\fldinst{HYPERLINK "http://162.248.6.122:8080/"}}{\fldrslt \cf5 http://162.248.6.122:8080}}
+\f1\fs20 \cf0 \cb2 \
 }
