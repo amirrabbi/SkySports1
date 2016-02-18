@@ -8,5 +8,6 @@
 \
 \pard\pardeftab720
 
-\f1\fs20 \cf0 \cb2 #EXTINF:0,Sky Sports 1 http://80.243.189.26:8081/sportshd/sky1/index.m3u8 \
+\f1\fs20 \cf0 \cb2 #EXTINF:0,Sky Sports 1 \
+http://80.243.189.26:8081/sportshd/sky1/index.m3u8 \
 }
